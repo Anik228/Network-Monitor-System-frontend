@@ -1,0 +1,111 @@
+[
+    {
+      "status": "critical",
+      "temp": "42",
+      "unit": "deg C",
+      "time": "2024-03-31T04:39:30.019Z"
+    },
+    {
+      "status": "critical",
+      "temp": "39.94",
+      "unit": "&deg C",
+      "time": "2024-03-31T04:39:20.019Z"
+    },
+    {
+      "status": "critical",
+      "temp": "40.01",
+      "unit": "&deg C",
+      "time": "2024-03-31T04:39:10.013Z"
+    },
+    {
+      "status": "critical",
+      "temp": "40.04",
+      "unit": "&deg C",
+      "time": "2024-03-31T04:39:00.017Z"
+    },
+    {
+      "status": "critical",
+      "temp": "40",
+      "unit": "&deg C",
+      "time": "2024-03-31T04:38:50.030Z"
+    },
+    {
+      "status": "critical",
+      "temp": "40.07",
+      "unit": "&deg C",
+      "time": "2024-03-31T04:38:40.038Z"
+    },
+    {
+      "status": "critical",
+      "temp": "40.04",
+      "unit": "&deg C",
+      "time": "2024-03-31T04:38:30.023Z"
+    },
+    {
+      "status": "critical",
+      "temp": "29.46",
+      "unit": "&deg C",
+      "time": "2024-03-28T06:10:00.041Z"
+    },
+    {
+      "status": "critical",
+      "temp": "29.38",
+      "unit": "&deg C",
+      "time": "2024-03-28T06:00:00.025Z"
+    },
+    {
+      "status": "critical",
+      "temp": "29.26",
+      "unit": "&deg C",
+      "time": "2024-03-28T05:50:00.090Z"
+    },
+    {
+      "status": "critical",
+      "temp": "29.15",
+      "unit": "&deg C",
+      "time": "2024-03-28T05:40:00.024Z"
+    },
+    {
+      "status": "critical",
+      "temp": "29",
+      "unit": "&deg C",
+      "time": "2024-03-28T05:30:00.125Z"
+    },
+    {
+      "status": "normal",
+      "temp": "24.19",
+      "unit": "&deg C",
+      "time": "2024-03-28T05:10:00.038Z"
+    },
+    {
+      "status": "normal",
+      "temp": "24",
+      "unit": "&deg C",
+      "time": "2024-03-28T05:00:00.024Z"
+    },
+    {
+      "status": "normal",
+      "temp": "24.19",
+      "unit": "&deg C",
+      "time": "2024-03-28T04:50:00.093Z"
+    },
+    {
+      "status": "normal",
+      "temp": "24.18",
+      "unit": "&deg C",
+      "time": "2024-03-28T04:40:00.094Z"
+    },
+    {
+      "status": "normal",
+      "temp": "24.09",
+      "unit": "&deg C",
+      "time": "2024-03-28T04:30:00.095Z"
+    },
+    {
+      "status": "normal",
+      "temp": "24",
+      "unit": "&deg C",
+      "time": "2024-03-28T04:29:13.219Z"
+    }
+  ]
+  

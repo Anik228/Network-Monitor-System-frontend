@@ -1,0 +1,103 @@
+/* styles.module.css */
+.tree {
+  font-family: Arial, sans-serif;
+  display: flex; /* Make the tree container a flex container */
+}
+
+.treeList {
+  list-style: none;
+  padding-left: 0;
+  display: flex; /* Make the tree list a flex container */
+}
+
+.treeNode {
+  display: flex;
+  flex-direction: column; /* Ensure child elements are stacked vertically */
+  align-items: center;
+  margin-right: 20px; /* Add margin between tree nodes */
+}
+
+.treeNode p {
+  margin-left: 10px;
+}
+
+.indent-0 {
+  margin-left: 0;
+}
+
+.indent-1 {
+  margin-left: 20px;
+}
+
+.indent-2 {
+  margin-left: 40px;
+}
+
+/* Add more indent classes as needed */
+
+.childList {
+  display: flex; /* Make the child list a flex container */
+  margin-left: 0; /* Reset margin to ensure alignment */
+}
+
+.childNode {
+  margin-right: 20px; /* Add margin between child nodes */
+}
+
+.treeLine {
+  position: absolute;
+  border-left: 2px solid black; /* Change color and size as needed */
+  height: 100%; /* Extend the line to the bottom of the parent container */
+  left: -10px; /* Adjust alignment */
+}
+
+/* Active staus CSS */
+/* styles.module.css */
+.statusDot {
+  position: absolute;
+  top: 3px;
+  right:3px;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  display: inline-block;
+  margin-right: 4px; 
+}
+
+.statusDot.green {
+  background-color: green;
+}
+
+.statusDot.red {
+  background-color: red;
+}
+
+/* .tf-custom .activeC .tf-nc:before {
+  border-left-color: green !important;
+  border-left-width: 5px !important;
+}
+
+.tf-custom .inactiveC .tf-nc:before {
+  border-left-color: red !important;
+  border-left-width: 5px !important;
+}
+
+.tf-custom .tf-nc.activeP:after {
+  border-left-color: green !important;
+  border-left-width: 5px !important;
+}
+
+.tf-custom .tf-nc.inactiveP:after {
+  border-left-color: red !important;
+  border-left-width: 5px !important;
+}
+
+.tf-custom .activeL li:before {
+  border-top-color: green !important;
+  border-top-width: 2px !important;
+}
+
+.tf-custom .inactiveL li:before {
+  border-top-color: red !important;
+  border-top-width: 2px !important;
+} */

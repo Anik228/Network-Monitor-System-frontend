@@ -1,0 +1,48 @@
+@keyframes pulse {
+  from {
+    opacity: 1;
+    transform: scale(1);
+  }
+  to {
+    opacity: 0.25;
+    transform: scale(0.75);
+  }
+}
+.loading {
+  @apply flex min-h-screen w-full fixed bg-rb-black-100/50 justify-center items-center inset-0 z-[99999999];
+}
+
+.spinnerBox {
+  width: 300px;
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: transparent;
+}
+
+.pulseContainer {
+  width: 120px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.pulseBubble {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: #3ff9dc;
+}
+
+.pulseBubble1 {
+  animation: pulse 0.4s ease 0s infinite alternate;
+}
+
+.pulseBubble2 {
+  animation: pulse 0.4s ease 0.2s infinite alternate;
+}
+
+.pulseBubble3 {
+  animation: pulse 0.4s ease 0.4s infinite alternate;
+}/*# sourceMappingURL=loading.module.css.map */

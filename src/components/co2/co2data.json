@@ -1,0 +1,33 @@
+[
+    {
+    "status": "0.08",
+    "time": "2024-04-16T11:22:19.564Z",
+    "label": "Critical"
+    },
+    {
+    "status": "0.03",
+    "time": "2024-04-16T11:12:46.570Z",
+    "label": "Normal"
+    },
+    {
+    "status": "0.02",
+    "time": "2024-04-16T11:12:44.046Z",
+    "label": "Normal"
+    },
+    {
+    "status": "0.08",
+    "time": "2024-04-16T11:12:39.388Z",
+    "label": "Critical"
+    },
+    {
+    "status": "0.07",
+    "time": "2024-04-16T11:12:33.073Z",
+    "label": "Normal"
+    },
+    {
+    "status": "0.06",
+    "time": "2024-04-15T07:58:35.581Z",
+    "label": "Normal"
+    }
+    ]
+

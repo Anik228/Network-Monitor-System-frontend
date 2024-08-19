@@ -1,0 +1,274 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@font-face {
+  font-family: "AnekBangla";
+  src: url("../../public/fonts/AnekBangla-Light.ttf");
+  font-style: normal;
+  font-weight: 300;
+}
+@font-face {
+  font-family: "AnekBangla";
+  src: url("../../public/fonts/AnekBangla-Regular.ttf");
+  font-style: normal;
+  font-weight: 400;
+}
+@font-face {
+  font-family: "AnekBangla";
+  src: url("../../public/fonts/AnekBangla-Medium.ttf");
+  font-style: normal;
+  font-weight: 500;
+}
+@font-face {
+  font-family: "AnekBangla";
+  src: url("../../public/fonts/AnekBangla-SemiBold.ttf");
+  font-style: normal;
+  font-weight: 600;
+}
+@font-face {
+  font-family: "AnekBangla";
+  src: url("../../public/fonts/AnekBangla-Bold.ttf");
+  font-style: normal;
+  font-weight: 700;
+}
+@font-face {
+  font-family: "AnekBangla";
+  src: url("../../public/fonts/AnekBangla-ExtraBold.ttf");
+  font-style: normal;
+  font-weight: 800;
+}
+@font-face {
+  font-family: "Inter";
+  src: url("../../public/fonts/Inter-Light.ttf");
+  font-style: normal;
+  font-weight: 300;
+}
+@font-face {
+  font-family: "Inter";
+  src: url("../../public/fonts/Inter-Regular.ttf");
+  font-style: normal;
+  font-weight: 400;
+}
+@font-face {
+  font-family: "Inter";
+  src: url("../../public/fonts/Inter-Medium.ttf");
+  font-style: normal;
+  font-weight: 500;
+}
+@font-face {
+  font-family: "Inter";
+  src: url("../../public/fonts/Inter-SemiBold.ttf");
+  font-style: normal;
+  font-weight: 600;
+}
+@font-face {
+  font-family: "Inter";
+  src: url("../../public/fonts/Inter-Bold.ttf");
+  font-style: normal;
+  font-weight: 700;
+}
+@font-face {
+  font-family: "Inter";
+  src: url("../../public/fonts/Inter-ExtraBold.ttf");
+  font-style: normal;
+  font-weight: 800;
+}
+@font-face {
+  font-family: "Inter";
+  src: url("../../public/fonts/Inter-Black.ttf");
+  font-style: normal;
+  font-weight: 900;
+}
+html,
+body {
+  @apply font-inter font-normal;
+}
+html.bn,
+body.bn {
+  @apply font-anekBangla font-normal !important;
+}
+
+:root {
+  --custom-height: calc(100vh - 65px);
+}
+
+* {
+  @apply outline-none box-border;
+}
+
+html {
+  @apply scroll-smooth;
+}
+
+html,
+body {
+  @apply h-auto !important;
+  @apply m-0 p-0
+  antialiased;
+}
+
+body {
+  @apply flex flex-col
+  min-h-screen overflow-x-hidden;
+}
+body .no-scroll {
+  @apply overflow-hidden;
+}
+
+/*new part*/
+@layer base {
+  :root {
+    --background: 0 0% 100%;
+    --foreground: 222.2 84% 4.9%;
+
+    --card: 0 0% 100%;
+    --card-foreground: 222.2 84% 4.9%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 222.2 84% 4.9%;
+
+    --primary: 222.2 47.4% 11.2%;
+    --primary-foreground: 210 40% 98%;
+
+    --secondary: 210 40% 96.1%;
+    --secondary-foreground: 222.2 47.4% 11.2%;
+
+    --muted: 210 40% 96.1%;
+    --muted-foreground: 215.4 16.3% 46.9%;
+
+    --accent: 210 40% 96.1%;
+    --accent-foreground: 222.2 47.4% 11.2%;
+
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 210 40% 98%;
+
+    --border: 214.3 31.8% 91.4%;
+    --input: 214.3 31.8% 91.4%;
+    --ring: 222.2 84% 4.9%;
+
+    --radius: 0.5rem;
+  }
+
+  .dark {
+    --background: 222.2 84% 4.9%;
+    --foreground: 210 40% 98%;
+
+    --card: 222.2 84% 4.9%;
+    --card-foreground: 210 40% 98%;
+
+    --popover: 222.2 84% 4.9%;
+    --popover-foreground: 210 40% 98%;
+
+    --primary: 210 40% 98%;
+    --primary-foreground: 222.2 47.4% 11.2%;
+
+    --secondary: 217.2 32.6% 17.5%;
+    --secondary-foreground: 210 40% 98%;
+
+    --muted: 217.2 32.6% 17.5%;
+    --muted-foreground: 215 20.2% 65.1%;
+
+    --accent: 217.2 32.6% 17.5%;
+    --accent-foreground: 210 40% 98%;
+
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 210 40% 98%;
+
+    --border: 217.2 32.6% 17.5%;
+    --input: 217.2 32.6% 17.5%;
+    --ring: 212.7 26.8% 83.9%;
+  }
+}
+
+/* @layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+} */
+
+/* make the horizontal and vertical connectors thick and change their color */
+
+.tf-custom .activeC .tf-nc:before {
+  border-left-color: dodgerblue !important;
+  border-left-width: 5px !important;
+  /* height: 100% !important; */
+}
+
+.tf-custom .inactiveC .tf-nc:before {
+  border-left-color: red !important;
+  border-left-width: 5px !important;
+  /* height: 100% !important; */
+}
+
+.tf-custom .tf-nc.activeP:after {
+  border-left-color: dodgerblue !important;
+  border-left-width: 5px !important;
+}
+
+.tf-custom .tf-nc.inactiveP:after {
+  border-left-color: red !important;
+  border-left-width: 5px !important;
+}
+
+.tf-custom .activeL li:before {
+  border-top-color: dodgerblue !important;
+  border-top-width: 2px !important;
+}
+
+.tf-custom .inactiveL li:before {
+  border-top-color: red !important;
+  border-top-width: 2px !important;
+}
+
+/*new part end*/
+
+@layer components {
+  .container {
+    @apply mx-auto px-4;
+  }
+  .main-body {
+    @apply w-full min-h-[var(--custom-height)];
+  }
+  .btn {
+    @apply outline-0 !important;
+  }
+  .table th,
+  .table td {
+    @apply border border-[#EAECF0] !important;
+  }
+  .pagination {
+    @apply flex flex-row flex-nowrap justify-center items-center gap-2;
+  }
+  .pagination-item {
+    @apply flex w-10 h-10 mx-1 justify-center items-center text-rb-body-p4 font-medium
+    rounded-full text-rb-black-100 hover:bg-[#F9FAFB] cursor-pointer;
+  }
+  .pagination-item.active {
+    @apply bg-[#F9FAFB];
+  }
+  .pagination-previous,
+  .pagination-next {
+    @apply flex justify-center items-center text-rb-black-100 text-rb-body-p4
+    font-semibold disabled:text-rb-black-100/20 cursor-pointer;
+  }
+  .pagination-previous.active,
+  .pagination-next.active {
+    @apply text-rb-green-100;
+  }
+  ::-webkit-scrollbar {
+    @apply w-2 h-2 bg-transparent;
+  }
+  ::-webkit-scrollbar-thumb {
+    @apply w-2 h-2 bg-rb-gray-50;
+  }
+  ::-webkit-scrollbar-track {
+    @apply w-2 h-2;
+  }
+} /*# sourceMappingURL=globals.css.map */
+
+.menu li > details > summary:active {
+  background-color: transparent!important;
+}

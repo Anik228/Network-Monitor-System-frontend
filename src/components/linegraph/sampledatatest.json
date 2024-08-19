@@ -1,0 +1,1346 @@
+{
+    "zfs": [
+        {
+            "id": 589,
+            "type": "zfs",
+            "values": "0.000046424",
+            "insertedtime": "2024-04-01T04:19:10.187Z"
+        },
+        {
+            "id": 547,
+            "type": "zfs",
+            "values": "0.000077754",
+            "insertedtime": "2024-04-01T04:19:00.195Z"
+        },
+        {
+            "id": 505,
+            "type": "zfs",
+            "values": "0.000043713",
+            "insertedtime": "2024-04-01T04:18:50.181Z"
+        },
+        {
+            "id": 463,
+            "type": "zfs",
+            "values": "0.000042491",
+            "insertedtime": "2024-04-01T04:18:40.270Z"
+        },
+        {
+            "id": 421,
+            "type": "zfs",
+            "values": "0.000046041",
+            "insertedtime": "2024-04-01T04:18:30.168Z"
+        }
+    ],
+    "xfs": [
+        {
+            "id": 588,
+            "type": "xfs",
+            "values": "0.000030392",
+            "insertedtime": "2024-04-01T04:19:10.184Z"
+        },
+        {
+            "id": 546,
+            "type": "xfs",
+            "values": "0.000029744",
+            "insertedtime": "2024-04-01T04:19:00.193Z"
+        },
+        {
+            "id": 504,
+            "type": "xfs",
+            "values": "0.000028671",
+            "insertedtime": "2024-04-01T04:18:50.178Z"
+        },
+        {
+            "id": 462,
+            "type": "xfs",
+            "values": "0.000029111",
+            "insertedtime": "2024-04-01T04:18:40.269Z"
+        },
+        {
+            "id": 420,
+            "type": "xfs",
+            "values": "0.000027551",
+            "insertedtime": "2024-04-01T04:18:30.166Z"
+        }
+    ],
+    "vmstat": [
+        {
+            "id": 587,
+            "type": "vmstat",
+            "values": "0.00035178",
+            "insertedtime": "2024-04-01T04:19:10.181Z"
+        },
+        {
+            "id": 545,
+            "type": "vmstat",
+            "values": "0.000784842",
+            "insertedtime": "2024-04-01T04:19:00.191Z"
+        },
+        {
+            "id": 503,
+            "type": "vmstat",
+            "values": "0.000335325",
+            "insertedtime": "2024-04-01T04:18:50.175Z"
+        },
+        {
+            "id": 461,
+            "type": "vmstat",
+            "values": "0.000313676",
+            "insertedtime": "2024-04-01T04:18:40.267Z"
+        },
+        {
+            "id": 419,
+            "type": "vmstat",
+            "values": "0.000354263",
+            "insertedtime": "2024-04-01T04:18:30.164Z"
+        }
+    ],
+    "uname": [
+        {
+            "id": 586,
+            "type": "uname",
+            "values": "0.000034273",
+            "insertedtime": "2024-04-01T04:19:10.176Z"
+        },
+        {
+            "id": 544,
+            "type": "uname",
+            "values": "0.000023452",
+            "insertedtime": "2024-04-01T04:19:00.189Z"
+        },
+        {
+            "id": 502,
+            "type": "uname",
+            "values": "0.000022987",
+            "insertedtime": "2024-04-01T04:18:50.173Z"
+        },
+        {
+            "id": 460,
+            "type": "uname",
+            "values": "0.000027933",
+            "insertedtime": "2024-04-01T04:18:40.265Z"
+        },
+        {
+            "id": 418,
+            "type": "uname",
+            "values": "0.000022447",
+            "insertedtime": "2024-04-01T04:18:30.162Z"
+        }
+    ],
+    "udp_queues": [
+        {
+            "id": 585,
+            "type": "udp_queues",
+            "values": "0.000258116",
+            "insertedtime": "2024-04-01T04:19:10.173Z"
+        },
+        {
+            "id": 543,
+            "type": "udp_queues",
+            "values": "0.000256204",
+            "insertedtime": "2024-04-01T04:19:00.188Z"
+        },
+        {
+            "id": 501,
+            "type": "udp_queues",
+            "values": "0.000263585",
+            "insertedtime": "2024-04-01T04:18:50.170Z"
+        },
+        {
+            "id": 459,
+            "type": "udp_queues",
+            "values": "0.000250141",
+            "insertedtime": "2024-04-01T04:18:40.262Z"
+        },
+        {
+            "id": 417,
+            "type": "udp_queues",
+            "values": "0.000242814",
+            "insertedtime": "2024-04-01T04:18:30.160Z"
+        }
+    ],
+    "timex": [
+        {
+            "id": 584,
+            "type": "timex",
+            "values": "0.000026823",
+            "insertedtime": "2024-04-01T04:19:10.170Z"
+        },
+        {
+            "id": 542,
+            "type": "timex",
+            "values": "0.003601312",
+            "insertedtime": "2024-04-01T04:19:00.186Z"
+        },
+        {
+            "id": 500,
+            "type": "timex",
+            "values": "0.000024961",
+            "insertedtime": "2024-04-01T04:18:50.168Z"
+        },
+        {
+            "id": 458,
+            "type": "timex",
+            "values": "0.000020414",
+            "insertedtime": "2024-04-01T04:18:40.261Z"
+        },
+        {
+            "id": 416,
+            "type": "timex",
+            "values": "0.000021509",
+            "insertedtime": "2024-04-01T04:18:30.158Z"
+        }
+    ],
+    "time": [
+        {
+            "id": 583,
+            "type": "time",
+            "values": "0.00003282",
+            "insertedtime": "2024-04-01T04:19:10.167Z"
+        },
+        {
+            "id": 541,
+            "type": "time",
+            "values": "0.000081054",
+            "insertedtime": "2024-04-01T04:19:00.184Z"
+        },
+        {
+            "id": 499,
+            "type": "time",
+            "values": "0.000033495",
+            "insertedtime": "2024-04-01T04:18:50.165Z"
+        },
+        {
+            "id": 457,
+            "type": "time",
+            "values": "0.000051139",
+            "insertedtime": "2024-04-01T04:18:40.258Z"
+        },
+        {
+            "id": 415,
+            "type": "time",
+            "values": "0.000029019",
+            "insertedtime": "2024-04-01T04:18:30.155Z"
+        }
+    ],
+    "thermal_zone": [
+        {
+            "id": 582,
+            "type": "thermal_zone",
+            "values": "0.000446759",
+            "insertedtime": "2024-04-01T04:19:10.164Z"
+        },
+        {
+            "id": 540,
+            "type": "thermal_zone",
+            "values": "0.000497219",
+            "insertedtime": "2024-04-01T04:19:00.180Z"
+        },
+        {
+            "id": 498,
+            "type": "thermal_zone",
+            "values": "0.000448749",
+            "insertedtime": "2024-04-01T04:18:50.161Z"
+        },
+        {
+            "id": 456,
+            "type": "thermal_zone",
+            "values": "0.000497134",
+            "insertedtime": "2024-04-01T04:18:40.256Z"
+        },
+        {
+            "id": 414,
+            "type": "thermal_zone",
+            "values": "0.000467305",
+            "insertedtime": "2024-04-01T04:18:30.153Z"
+        }
+    ],
+    "textfile": [
+        {
+            "id": 581,
+            "type": "textfile",
+            "values": "0.000032315",
+            "insertedtime": "2024-04-01T04:19:10.161Z"
+        },
+        {
+            "id": 539,
+            "type": "textfile",
+            "values": "0.000020966",
+            "insertedtime": "2024-04-01T04:19:00.178Z"
+        },
+        {
+            "id": 497,
+            "type": "textfile",
+            "values": "0.000019194",
+            "insertedtime": "2024-04-01T04:18:50.155Z"
+        },
+        {
+            "id": 455,
+            "type": "textfile",
+            "values": "0.000041291",
+            "insertedtime": "2024-04-01T04:18:40.254Z"
+        },
+        {
+            "id": 413,
+            "type": "textfile",
+            "values": "0.000019368",
+            "insertedtime": "2024-04-01T04:18:30.149Z"
+        }
+    ],
+    "tapestats": [
+        {
+            "id": 580,
+            "type": "tapestats",
+            "values": "0.000068994",
+            "insertedtime": "2024-04-01T04:19:10.158Z"
+        },
+        {
+            "id": 538,
+            "type": "tapestats",
+            "values": "0.000042746",
+            "insertedtime": "2024-04-01T04:19:00.176Z"
+        },
+        {
+            "id": 496,
+            "type": "tapestats",
+            "values": "0.000042875",
+            "insertedtime": "2024-04-01T04:18:50.152Z"
+        },
+        {
+            "id": 454,
+            "type": "tapestats",
+            "values": "0.000045642",
+            "insertedtime": "2024-04-01T04:18:40.252Z"
+        },
+        {
+            "id": 412,
+            "type": "tapestats",
+            "values": "0.000044233",
+            "insertedtime": "2024-04-01T04:18:30.147Z"
+        }
+    ],
+    "stat": [
+        {
+            "id": 579,
+            "type": "stat",
+            "values": "0.000352885",
+            "insertedtime": "2024-04-01T04:19:10.156Z"
+        },
+        {
+            "id": 537,
+            "type": "stat",
+            "values": "0.000334675",
+            "insertedtime": "2024-04-01T04:19:00.174Z"
+        },
+        {
+            "id": 495,
+            "type": "stat",
+            "values": "0.000260895",
+            "insertedtime": "2024-04-01T04:18:50.150Z"
+        },
+        {
+            "id": 453,
+            "type": "stat",
+            "values": "0.000321953",
+            "insertedtime": "2024-04-01T04:18:40.250Z"
+        },
+        {
+            "id": 411,
+            "type": "stat",
+            "values": "0.000249276",
+            "insertedtime": "2024-04-01T04:18:30.145Z"
+        }
+    ],
+    "softnet": [
+        {
+            "id": 578,
+            "type": "softnet",
+            "values": "0.000167942",
+            "insertedtime": "2024-04-01T04:19:10.153Z"
+        },
+        {
+            "id": 536,
+            "type": "softnet",
+            "values": "0.000111902",
+            "insertedtime": "2024-04-01T04:19:00.170Z"
+        },
+        {
+            "id": 494,
+            "type": "softnet",
+            "values": "0.000097517",
+            "insertedtime": "2024-04-01T04:18:50.147Z"
+        },
+        {
+            "id": 452,
+            "type": "softnet",
+            "values": "0.000124145",
+            "insertedtime": "2024-04-01T04:18:40.248Z"
+        },
+        {
+            "id": 410,
+            "type": "softnet",
+            "values": "0.000112587",
+            "insertedtime": "2024-04-01T04:18:30.141Z"
+        }
+    ],
+    "sockstat": [
+        {
+            "id": 577,
+            "type": "sockstat",
+            "values": "0.00031884",
+            "insertedtime": "2024-04-01T04:19:10.150Z"
+        },
+        {
+            "id": 535,
+            "type": "sockstat",
+            "values": "0.000253952",
+            "insertedtime": "2024-04-01T04:19:00.167Z"
+        },
+        {
+            "id": 493,
+            "type": "sockstat",
+            "values": "0.000301149",
+            "insertedtime": "2024-04-01T04:18:50.144Z"
+        },
+        {
+            "id": 451,
+            "type": "sockstat",
+            "values": "0.000296243",
+            "insertedtime": "2024-04-01T04:18:40.246Z"
+        },
+        {
+            "id": 409,
+            "type": "sockstat",
+            "values": "0.000315283",
+            "insertedtime": "2024-04-01T04:18:30.138Z"
+        }
+    ],
+    "schedstat": [
+        {
+            "id": 576,
+            "type": "schedstat",
+            "values": "0.000179055",
+            "insertedtime": "2024-04-01T04:19:10.148Z"
+        },
+        {
+            "id": 534,
+            "type": "schedstat",
+            "values": "0.00017309",
+            "insertedtime": "2024-04-01T04:19:00.162Z"
+        },
+        {
+            "id": 492,
+            "type": "schedstat",
+            "values": "0.000136552",
+            "insertedtime": "2024-04-01T04:18:50.142Z"
+        },
+        {
+            "id": 450,
+            "type": "schedstat",
+            "values": "0.000132095",
+            "insertedtime": "2024-04-01T04:18:40.244Z"
+        },
+        {
+            "id": 408,
+            "type": "schedstat",
+            "values": "0.00012539",
+            "insertedtime": "2024-04-01T04:18:30.136Z"
+        }
+    ],
+    "rapl": [
+        {
+            "id": 575,
+            "type": "rapl",
+            "values": "0.000098658",
+            "insertedtime": "2024-04-01T04:19:10.145Z"
+        },
+        {
+            "id": 533,
+            "type": "rapl",
+            "values": "0.000058283",
+            "insertedtime": "2024-04-01T04:19:00.159Z"
+        },
+        {
+            "id": 491,
+            "type": "rapl",
+            "values": "0.00005608",
+            "insertedtime": "2024-04-01T04:18:50.140Z"
+        },
+        {
+            "id": 449,
+            "type": "rapl",
+            "values": "0.000064817",
+            "insertedtime": "2024-04-01T04:18:40.242Z"
+        },
+        {
+            "id": 407,
+            "type": "rapl",
+            "values": "0.000079554",
+            "insertedtime": "2024-04-01T04:18:30.133Z"
+        }
+    ],
+    "pressure": [
+        {
+            "id": 574,
+            "type": "pressure",
+            "values": "0.000058255",
+            "insertedtime": "2024-04-01T04:19:10.142Z"
+        },
+        {
+            "id": 532,
+            "type": "pressure",
+            "values": "0.000061589",
+            "insertedtime": "2024-04-01T04:19:00.157Z"
+        },
+        {
+            "id": 490,
+            "type": "pressure",
+            "values": "0.000062612",
+            "insertedtime": "2024-04-01T04:18:50.134Z"
+        },
+        {
+            "id": 448,
+            "type": "pressure",
+            "values": "0.000096547",
+            "insertedtime": "2024-04-01T04:18:40.239Z"
+        },
+        {
+            "id": 406,
+            "type": "pressure",
+            "values": "0.000076736",
+            "insertedtime": "2024-04-01T04:18:30.131Z"
+        }
+    ],
+    "powersupplyclass": [
+        {
+            "id": 573,
+            "type": "powersupplyclass",
+            "values": "0.000778378",
+            "insertedtime": "2024-04-01T04:19:10.140Z"
+        },
+        {
+            "id": 531,
+            "type": "powersupplyclass",
+            "values": "0.001137673",
+            "insertedtime": "2024-04-01T04:19:00.155Z"
+        },
+        {
+            "id": 489,
+            "type": "powersupplyclass",
+            "values": "0.000783051",
+            "insertedtime": "2024-04-01T04:18:50.131Z"
+        },
+        {
+            "id": 447,
+            "type": "powersupplyclass",
+            "values": "0.000807201",
+            "insertedtime": "2024-04-01T04:18:40.237Z"
+        },
+        {
+            "id": 405,
+            "type": "powersupplyclass",
+            "values": "0.000790079",
+            "insertedtime": "2024-04-01T04:18:30.128Z"
+        }
+    ],
+    "nvme": [
+        {
+            "id": 572,
+            "type": "nvme",
+            "values": "0.000042286",
+            "insertedtime": "2024-04-01T04:19:10.137Z"
+        },
+        {
+            "id": 530,
+            "type": "nvme",
+            "values": "0.000070034",
+            "insertedtime": "2024-04-01T04:19:00.153Z"
+        },
+        {
+            "id": 488,
+            "type": "nvme",
+            "values": "0.000064503",
+            "insertedtime": "2024-04-01T04:18:50.128Z"
+        },
+        {
+            "id": 446,
+            "type": "nvme",
+            "values": "0.000043216",
+            "insertedtime": "2024-04-01T04:18:40.235Z"
+        },
+        {
+            "id": 404,
+            "type": "nvme",
+            "values": "0.00004046",
+            "insertedtime": "2024-04-01T04:18:30.126Z"
+        }
+    ],
+    "nfsd": [
+        {
+            "id": 571,
+            "type": "nfsd",
+            "values": "0.000046349",
+            "insertedtime": "2024-04-01T04:19:10.133Z"
+        },
+        {
+            "id": 529,
+            "type": "nfsd",
+            "values": "0.000068823",
+            "insertedtime": "2024-04-01T04:19:00.150Z"
+        },
+        {
+            "id": 487,
+            "type": "nfsd",
+            "values": "0.000045124",
+            "insertedtime": "2024-04-01T04:18:50.126Z"
+        },
+        {
+            "id": 445,
+            "type": "nfsd",
+            "values": "0.000045414",
+            "insertedtime": "2024-04-01T04:18:40.233Z"
+        },
+        {
+            "id": 403,
+            "type": "nfsd",
+            "values": "0.000045126",
+            "insertedtime": "2024-04-01T04:18:30.124Z"
+        }
+    ],
+    "nfs": [
+        {
+            "id": 570,
+            "type": "nfs",
+            "values": "0.000046679",
+            "insertedtime": "2024-04-01T04:19:10.129Z"
+        },
+        {
+            "id": 528,
+            "type": "nfs",
+            "values": "0.000051561",
+            "insertedtime": "2024-04-01T04:19:00.145Z"
+        },
+        {
+            "id": 486,
+            "type": "nfs",
+            "values": "0.000053121",
+            "insertedtime": "2024-04-01T04:18:50.124Z"
+        },
+        {
+            "id": 444,
+            "type": "nfs",
+            "values": "0.000052404",
+            "insertedtime": "2024-04-01T04:18:40.231Z"
+        },
+        {
+            "id": 402,
+            "type": "nfs",
+            "values": "0.000067573",
+            "insertedtime": "2024-04-01T04:18:30.122Z"
+        }
+    ],
+    "netstat": [
+        {
+            "id": 569,
+            "type": "netstat",
+            "values": "0.001681588",
+            "insertedtime": "2024-04-01T04:19:10.125Z"
+        },
+        {
+            "id": 527,
+            "type": "netstat",
+            "values": "0.004291562",
+            "insertedtime": "2024-04-01T04:19:00.143Z"
+        },
+        {
+            "id": 485,
+            "type": "netstat",
+            "values": "0.001713706",
+            "insertedtime": "2024-04-01T04:18:50.122Z"
+        },
+        {
+            "id": 443,
+            "type": "netstat",
+            "values": "0.001680593",
+            "insertedtime": "2024-04-01T04:18:40.229Z"
+        },
+        {
+            "id": 401,
+            "type": "netstat",
+            "values": "0.001866972",
+            "insertedtime": "2024-04-01T04:18:30.119Z"
+        }
+    ],
+    "netdev": [
+        {
+            "id": 568,
+            "type": "netdev",
+            "values": "0.000355416",
+            "insertedtime": "2024-04-01T04:19:10.122Z"
+        },
+        {
+            "id": 526,
+            "type": "netdev",
+            "values": "0.000301159",
+            "insertedtime": "2024-04-01T04:19:00.141Z"
+        },
+        {
+            "id": 484,
+            "type": "netdev",
+            "values": "0.000233806",
+            "insertedtime": "2024-04-01T04:18:50.119Z"
+        },
+        {
+            "id": 442,
+            "type": "netdev",
+            "values": "0.000230323",
+            "insertedtime": "2024-04-01T04:18:40.226Z"
+        },
+        {
+            "id": 400,
+            "type": "netdev",
+            "values": "0.000225319",
+            "insertedtime": "2024-04-01T04:18:30.117Z"
+        }
+    ],
+    "netclass": [
+        {
+            "id": 567,
+            "type": "netclass",
+            "values": "0.006842786",
+            "insertedtime": "2024-04-01T04:19:10.119Z"
+        },
+        {
+            "id": 525,
+            "type": "netclass",
+            "values": "0.006239399",
+            "insertedtime": "2024-04-01T04:19:00.138Z"
+        },
+        {
+            "id": 483,
+            "type": "netclass",
+            "values": "0.004228448",
+            "insertedtime": "2024-04-01T04:18:50.116Z"
+        },
+        {
+            "id": 441,
+            "type": "netclass",
+            "values": "0.003988867",
+            "insertedtime": "2024-04-01T04:18:40.224Z"
+        },
+        {
+            "id": 399,
+            "type": "netclass",
+            "values": "0.004258765",
+            "insertedtime": "2024-04-01T04:18:30.113Z"
+        }
+    ],
+    "meminfo": [
+        {
+            "id": 566,
+            "type": "meminfo",
+            "values": "0.000613343",
+            "insertedtime": "2024-04-01T04:19:10.116Z"
+        },
+        {
+            "id": 524,
+            "type": "meminfo",
+            "values": "0.000739053",
+            "insertedtime": "2024-04-01T04:19:00.134Z"
+        },
+        {
+            "id": 482,
+            "type": "meminfo",
+            "values": "0.000315724",
+            "insertedtime": "2024-04-01T04:18:50.112Z"
+        },
+        {
+            "id": 440,
+            "type": "meminfo",
+            "values": "0.000600506",
+            "insertedtime": "2024-04-01T04:18:40.222Z"
+        },
+        {
+            "id": 398,
+            "type": "meminfo",
+            "values": "0.00032008",
+            "insertedtime": "2024-04-01T04:18:30.111Z"
+        }
+    ],
+    "mdadm": [
+        {
+            "id": 565,
+            "type": "mdadm",
+            "values": "0.000098825",
+            "insertedtime": "2024-04-01T04:19:10.111Z"
+        },
+        {
+            "id": 523,
+            "type": "mdadm",
+            "values": "0.000089555",
+            "insertedtime": "2024-04-01T04:19:00.128Z"
+        },
+        {
+            "id": 481,
+            "type": "mdadm",
+            "values": "0.000112024",
+            "insertedtime": "2024-04-01T04:18:50.110Z"
+        },
+        {
+            "id": 439,
+            "type": "mdadm",
+            "values": "0.000083766",
+            "insertedtime": "2024-04-01T04:18:40.219Z"
+        },
+        {
+            "id": 397,
+            "type": "mdadm",
+            "values": "0.000165786",
+            "insertedtime": "2024-04-01T04:18:30.108Z"
+        }
+    ],
+    "loadavg": [
+        {
+            "id": 564,
+            "type": "loadavg",
+            "values": "0.000110149",
+            "insertedtime": "2024-04-01T04:19:10.108Z"
+        },
+        {
+            "id": 522,
+            "type": "loadavg",
+            "values": "0.000153767",
+            "insertedtime": "2024-04-01T04:19:00.126Z"
+        },
+        {
+            "id": 480,
+            "type": "loadavg",
+            "values": "0.000107768",
+            "insertedtime": "2024-04-01T04:18:50.107Z"
+        },
+        {
+            "id": 438,
+            "type": "loadavg",
+            "values": "0.000119014",
+            "insertedtime": "2024-04-01T04:18:40.217Z"
+        },
+        {
+            "id": 396,
+            "type": "loadavg",
+            "values": "0.000103167",
+            "insertedtime": "2024-04-01T04:18:30.106Z"
+        }
+    ],
+    "ipvs": [
+        {
+            "id": 563,
+            "type": "ipvs",
+            "values": "0.000052406",
+            "insertedtime": "2024-04-01T04:19:10.105Z"
+        },
+        {
+            "id": 521,
+            "type": "ipvs",
+            "values": "0.000113075",
+            "insertedtime": "2024-04-01T04:19:00.123Z"
+        },
+        {
+            "id": 479,
+            "type": "ipvs",
+            "values": "0.000049035",
+            "insertedtime": "2024-04-01T04:18:50.105Z"
+        },
+        {
+            "id": 437,
+            "type": "ipvs",
+            "values": "0.00004963",
+            "insertedtime": "2024-04-01T04:18:40.215Z"
+        },
+        {
+            "id": 395,
+            "type": "ipvs",
+            "values": "0.000046467",
+            "insertedtime": "2024-04-01T04:18:30.103Z"
+        }
+    ],
+    "infiniband": [
+        {
+            "id": 562,
+            "type": "infiniband",
+            "values": "0.000034038",
+            "insertedtime": "2024-04-01T04:19:10.103Z"
+        },
+        {
+            "id": 520,
+            "type": "infiniband",
+            "values": "0.000070322",
+            "insertedtime": "2024-04-01T04:19:00.119Z"
+        },
+        {
+            "id": 478,
+            "type": "infiniband",
+            "values": "0.00004875",
+            "insertedtime": "2024-04-01T04:18:50.102Z"
+        },
+        {
+            "id": 436,
+            "type": "infiniband",
+            "values": "0.000052871",
+            "insertedtime": "2024-04-01T04:18:40.211Z"
+        },
+        {
+            "id": 394,
+            "type": "infiniband",
+            "values": "0.000035053",
+            "insertedtime": "2024-04-01T04:18:30.099Z"
+        }
+    ],
+    "hwmon": [
+        {
+            "id": 561,
+            "type": "hwmon",
+            "values": "0.002338191",
+            "insertedtime": "2024-04-01T04:19:10.100Z"
+        },
+        {
+            "id": 519,
+            "type": "hwmon",
+            "values": "0.002944108",
+            "insertedtime": "2024-04-01T04:19:00.115Z"
+        },
+        {
+            "id": 477,
+            "type": "hwmon",
+            "values": "0.002227875",
+            "insertedtime": "2024-04-01T04:18:50.098Z"
+        },
+        {
+            "id": 435,
+            "type": "hwmon",
+            "values": "0.00230886",
+            "insertedtime": "2024-04-01T04:18:40.208Z"
+        },
+        {
+            "id": 393,
+            "type": "hwmon",
+            "values": "0.002330331",
+            "insertedtime": "2024-04-01T04:18:30.096Z"
+        }
+    ],
+    "filesystem": [
+        {
+            "id": 560,
+            "type": "filesystem",
+            "values": "0.000475608",
+            "insertedtime": "2024-04-01T04:19:10.094Z"
+        },
+        {
+            "id": 518,
+            "type": "filesystem",
+            "values": "0.000635171",
+            "insertedtime": "2024-04-01T04:19:00.108Z"
+        },
+        {
+            "id": 476,
+            "type": "filesystem",
+            "values": "0.000468188",
+            "insertedtime": "2024-04-01T04:18:50.094Z"
+        },
+        {
+            "id": 434,
+            "type": "filesystem",
+            "values": "0.000456265",
+            "insertedtime": "2024-04-01T04:18:40.206Z"
+        },
+        {
+            "id": 392,
+            "type": "filesystem",
+            "values": "0.000482312",
+            "insertedtime": "2024-04-01T04:18:30.093Z"
+        }
+    ],
+    "filefd": [
+        {
+            "id": 559,
+            "type": "filefd",
+            "values": "0.000078744",
+            "insertedtime": "2024-04-01T04:19:10.091Z"
+        },
+        {
+            "id": 517,
+            "type": "filefd",
+            "values": "0.000110951",
+            "insertedtime": "2024-04-01T04:19:00.105Z"
+        },
+        {
+            "id": 475,
+            "type": "filefd",
+            "values": "0.000086344",
+            "insertedtime": "2024-04-01T04:18:50.089Z"
+        },
+        {
+            "id": 433,
+            "type": "filefd",
+            "values": "0.00008146",
+            "insertedtime": "2024-04-01T04:18:40.203Z"
+        },
+        {
+            "id": 391,
+            "type": "filefd",
+            "values": "0.000093718",
+            "insertedtime": "2024-04-01T04:18:30.091Z"
+        }
+    ],
+    "fibrechannel": [
+        {
+            "id": 558,
+            "type": "fibrechannel",
+            "values": "0.000037429",
+            "insertedtime": "2024-04-01T04:19:10.089Z"
+        },
+        {
+            "id": 516,
+            "type": "fibrechannel",
+            "values": "0.000051721",
+            "insertedtime": "2024-04-01T04:19:00.101Z"
+        },
+        {
+            "id": 474,
+            "type": "fibrechannel",
+            "values": "0.00003256",
+            "insertedtime": "2024-04-01T04:18:50.087Z"
+        },
+        {
+            "id": 432,
+            "type": "fibrechannel",
+            "values": "0.000035101",
+            "insertedtime": "2024-04-01T04:18:40.200Z"
+        },
+        {
+            "id": 390,
+            "type": "fibrechannel",
+            "values": "0.000036116",
+            "insertedtime": "2024-04-01T04:18:30.089Z"
+        }
+    ],
+    "entropy": [
+        {
+            "id": 557,
+            "type": "entropy",
+            "values": "0.00026495",
+            "insertedtime": "2024-04-01T04:19:10.086Z"
+        },
+        {
+            "id": 515,
+            "type": "entropy",
+            "values": "0.000421614",
+            "insertedtime": "2024-04-01T04:19:00.097Z"
+        },
+        {
+            "id": 473,
+            "type": "entropy",
+            "values": "0.000243049",
+            "insertedtime": "2024-04-01T04:18:50.084Z"
+        },
+        {
+            "id": 431,
+            "type": "entropy",
+            "values": "0.000251417",
+            "insertedtime": "2024-04-01T04:18:40.196Z"
+        },
+        {
+            "id": 389,
+            "type": "entropy",
+            "values": "0.000260535",
+            "insertedtime": "2024-04-01T04:18:30.085Z"
+        }
+    ],
+    "edac": [
+        {
+            "id": 556,
+            "type": "edac",
+            "values": "0.000078955",
+            "insertedtime": "2024-04-01T04:19:10.083Z"
+        },
+        {
+            "id": 514,
+            "type": "edac",
+            "values": "0.000102964",
+            "insertedtime": "2024-04-01T04:19:00.092Z"
+        },
+        {
+            "id": 472,
+            "type": "edac",
+            "values": "0.000075278",
+            "insertedtime": "2024-04-01T04:18:50.080Z"
+        },
+        {
+            "id": 430,
+            "type": "edac",
+            "values": "0.000097012",
+            "insertedtime": "2024-04-01T04:18:40.192Z"
+        },
+        {
+            "id": 388,
+            "type": "edac",
+            "values": "0.000081375",
+            "insertedtime": "2024-04-01T04:18:30.080Z"
+        }
+    ],
+    "diskstats": [
+        {
+            "id": 555,
+            "type": "diskstats",
+            "values": "0.000170287",
+            "insertedtime": "2024-04-01T04:19:10.073Z"
+        },
+        {
+            "id": 513,
+            "type": "diskstats",
+            "values": "0.000241864",
+            "insertedtime": "2024-04-01T04:19:00.087Z"
+        },
+        {
+            "id": 471,
+            "type": "diskstats",
+            "values": "0.000166588",
+            "insertedtime": "2024-04-01T04:18:50.077Z"
+        },
+        {
+            "id": 429,
+            "type": "diskstats",
+            "values": "0.000175904",
+            "insertedtime": "2024-04-01T04:18:40.189Z"
+        },
+        {
+            "id": 387,
+            "type": "diskstats",
+            "values": "0.000166454",
+            "insertedtime": "2024-04-01T04:18:30.076Z"
+        }
+    ],
+    "cpufreq": [
+        {
+            "id": 554,
+            "type": "cpufreq",
+            "values": "0.000183493",
+            "insertedtime": "2024-04-01T04:19:10.070Z"
+        },
+        {
+            "id": 512,
+            "type": "cpufreq",
+            "values": "0.000177559",
+            "insertedtime": "2024-04-01T04:19:00.084Z"
+        },
+        {
+            "id": 470,
+            "type": "cpufreq",
+            "values": "0.000117628",
+            "insertedtime": "2024-04-01T04:18:50.075Z"
+        },
+        {
+            "id": 428,
+            "type": "cpufreq",
+            "values": "0.000128266",
+            "insertedtime": "2024-04-01T04:18:40.186Z"
+        },
+        {
+            "id": 386,
+            "type": "cpufreq",
+            "values": "0.000144774",
+            "insertedtime": "2024-04-01T04:18:30.073Z"
+        }
+    ],
+    "cpu": [
+        {
+            "id": 553,
+            "type": "cpu",
+            "values": "0.000716492",
+            "insertedtime": "2024-04-01T04:19:10.067Z"
+        },
+        {
+            "id": 511,
+            "type": "cpu",
+            "values": "0.000894068",
+            "insertedtime": "2024-04-01T04:19:00.080Z"
+        },
+        {
+            "id": 469,
+            "type": "cpu",
+            "values": "0.000689588",
+            "insertedtime": "2024-04-01T04:18:50.072Z"
+        },
+        {
+            "id": 427,
+            "type": "cpu",
+            "values": "0.000885658",
+            "insertedtime": "2024-04-01T04:18:40.183Z"
+        },
+        {
+            "id": 385,
+            "type": "cpu",
+            "values": "0.000698831",
+            "insertedtime": "2024-04-01T04:18:30.070Z"
+        }
+    ],
+    "conntrack": [
+        {
+            "id": 552,
+            "type": "conntrack",
+            "values": "0.000045536",
+            "insertedtime": "2024-04-01T04:19:10.064Z"
+        },
+        {
+            "id": 510,
+            "type": "conntrack",
+            "values": "0.000071239",
+            "insertedtime": "2024-04-01T04:19:00.076Z"
+        },
+        {
+            "id": 468,
+            "type": "conntrack",
+            "values": "0.000045036",
+            "insertedtime": "2024-04-01T04:18:50.070Z"
+        },
+        {
+            "id": 426,
+            "type": "conntrack",
+            "values": "0.000062451",
+            "insertedtime": "2024-04-01T04:18:40.179Z"
+        },
+        {
+            "id": 384,
+            "type": "conntrack",
+            "values": "0.000079394",
+            "insertedtime": "2024-04-01T04:18:30.067Z"
+        }
+    ],
+    "btrfs": [
+        {
+            "id": 551,
+            "type": "btrfs",
+            "values": "0.000037191",
+            "insertedtime": "2024-04-01T04:19:10.060Z"
+        },
+        {
+            "id": 509,
+            "type": "btrfs",
+            "values": "0.000047166",
+            "insertedtime": "2024-04-01T04:19:00.073Z"
+        },
+        {
+            "id": 467,
+            "type": "btrfs",
+            "values": "0.000026896",
+            "insertedtime": "2024-04-01T04:18:50.066Z"
+        },
+        {
+            "id": 425,
+            "type": "btrfs",
+            "values": "0.000045989",
+            "insertedtime": "2024-04-01T04:18:40.176Z"
+        },
+        {
+            "id": 383,
+            "type": "btrfs",
+            "values": "0.00003071",
+            "insertedtime": "2024-04-01T04:18:30.063Z"
+        }
+    ],
+    "bonding": [
+        {
+            "id": 550,
+            "type": "bonding",
+            "values": "0.000054254",
+            "insertedtime": "2024-04-01T04:19:10.057Z"
+        },
+        {
+            "id": 508,
+            "type": "bonding",
+            "values": "0.000047987",
+            "insertedtime": "2024-04-01T04:19:00.066Z"
+        },
+        {
+            "id": 466,
+            "type": "bonding",
+            "values": "0.000049805",
+            "insertedtime": "2024-04-01T04:18:50.063Z"
+        },
+        {
+            "id": 424,
+            "type": "bonding",
+            "values": "0.0000387",
+            "insertedtime": "2024-04-01T04:18:40.173Z"
+        },
+        {
+            "id": 382,
+            "type": "bonding",
+            "values": "0.00006364",
+            "insertedtime": "2024-04-01T04:18:30.061Z"
+        }
+    ],
+    "bcache": [
+        {
+            "id": 549,
+            "type": "bcache",
+            "values": "0.000029426",
+            "insertedtime": "2024-04-01T04:19:10.050Z"
+        },
+        {
+            "id": 507,
+            "type": "bcache",
+            "values": "0.000036846",
+            "insertedtime": "2024-04-01T04:19:00.061Z"
+        },
+        {
+            "id": 465,
+            "type": "bcache",
+            "values": "0.000031997",
+            "insertedtime": "2024-04-01T04:18:50.060Z"
+        },
+        {
+            "id": 423,
+            "type": "bcache",
+            "values": "0.000033793",
+            "insertedtime": "2024-04-01T04:18:40.170Z"
+        },
+        {
+            "id": 381,
+            "type": "bcache",
+            "values": "0.000031174",
+            "insertedtime": "2024-04-01T04:18:30.059Z"
+        }
+    ],
+    "arp": [
+        {
+            "id": 548,
+            "type": "arp",
+            "values": "0.00012288",
+            "insertedtime": "2024-04-01T04:19:10.045Z"
+        },
+        {
+            "id": 506,
+            "type": "arp",
+            "values": "0.000114447",
+            "insertedtime": "2024-04-01T04:19:00.047Z"
+        },
+        {
+            "id": 464,
+            "type": "arp",
+            "values": "0.000117123",
+            "insertedtime": "2024-04-01T04:18:50.050Z"
+        },
+        {
+            "id": 422,
+            "type": "arp",
+            "values": "0.000128644",
+            "insertedtime": "2024-04-01T04:18:40.155Z"
+        },
+        {
+            "id": 380,
+            "type": "arp",
+            "values": "0.000114667",
+            "insertedtime": "2024-04-01T04:18:30.044Z"
+        }
+    ]
+}

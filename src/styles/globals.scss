@@ -1,0 +1,87 @@
+@import "tailwind";
+@import "fontface";
+@import "typography";
+
+:root {
+  --custom-height: calc(100vh - 65px);
+}
+
+* {
+  @apply outline-none box-border;
+}
+
+html {
+  @apply scroll-smooth;
+}
+
+html,
+body {
+  @apply h-auto #{!important};
+  @apply m-0 p-0
+  antialiased;
+}
+
+// svg.star-svg {
+//   display: inline!important;
+// }
+
+body {
+  @apply flex flex-col
+  min-h-screen overflow-x-hidden;
+
+  .no-scroll {
+    @apply overflow-hidden;
+  }
+}
+
+@layer components {
+  .container {
+    @apply mx-auto px-4;
+  }
+
+  .main-body {
+    @apply w-full min-h-[var(--custom-height)];
+  }
+
+  .btn {
+    @apply outline-0 #{!important}
+  }
+
+  .table th,
+  .table td {
+    @apply border border-[#EAECF0] #{!important}
+  }
+
+  .pagination {
+    @apply flex flex-row flex-nowrap justify-center items-center gap-2;
+  }
+
+  .pagination-item {
+    @apply flex w-10 h-10 mx-1 justify-center items-center text-rb-body-p4 font-medium
+    rounded-full text-rb-black-100 hover:bg-[#F9FAFB] cursor-pointer;
+    &.active {
+      @apply bg-[#F9FAFB]
+    }
+  }
+
+  .pagination-previous,
+  .pagination-next {
+    @apply flex justify-center items-center text-rb-black-100 text-rb-body-p4
+    font-semibold disabled:text-rb-black-100/20 cursor-pointer;
+    &.active {
+      @apply text-rb-green-100
+    }
+  }
+
+  ::-webkit-scrollbar {
+    @apply w-2 h-2 bg-transparent;
+  }
+
+  ::-webkit-scrollbar-thumb {
+    @apply w-2 h-2 bg-rb-gray-50;
+  }
+
+  ::-webkit-scrollbar-track {
+    @apply w-2 h-2;
+  }
+}

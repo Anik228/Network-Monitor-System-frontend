@@ -1,0 +1,123 @@
+{
+   
+    "Firewall": [
+        {
+            "id": 5185,
+            "device_id": 3,
+            "uptime_status": 1,
+            "date_time": "2024-06-23T11:32:00.538Z"
+        },
+        {
+            "id": 5184,
+            "device_id": 3,
+            "uptime_status": 1,
+            "date_time": "2024-06-23T11:32:00.537Z"
+        },
+        {
+            "id": 5183,
+            "device_id": 3,
+            "uptime_status": 0,
+            "date_time": "2024-06-23T11:32:00.373Z"
+        }
+    ],
+    "Mikrotik 2": [
+        {
+            "id": 5188,
+            "device_id": 4,
+            "uptime_status": 1,
+            "date_time": "2024-06-23T11:33:00.538Z"
+        },
+        {
+            "id": 5187,
+            "device_id": 4,
+            "uptime_status": 0,
+            "date_time": "2024-06-23T11:33:00.537Z"
+        },
+        {
+            "id": 5186,
+            "device_id": 4,
+            "uptime_status": 1,
+            "date_time": "2024-06-23T11:33:00.373Z"
+        }
+    ],
+    "Switch 1": [
+        {
+            "id": 5191,
+            "device_id": 5,
+            "uptime_status": 0,
+            "date_time": "2024-06-23T11:34:00.538Z"
+        },
+        {
+            "id": 5190,
+            "device_id": 5,
+            "uptime_status": 1,
+            "date_time": "2024-06-23T11:34:00.537Z"
+        },
+        {
+            "id": 5189,
+            "device_id": 5,
+            "uptime_status": 1,
+            "date_time": "2024-06-23T11:34:00.373Z"
+        }
+    ],
+    "Switch 2": [
+        {
+            "id": 5194,
+            "device_id": 6,
+            "uptime_status": 0,
+            "date_time": "2024-06-23T11:35:00.538Z"
+        },
+        {
+            "id": 5193,
+            "device_id": 6,
+            "uptime_status": 1,
+            "date_time": "2024-06-23T11:35:00.537Z"
+        },
+        {
+            "id": 5192,
+            "device_id": 6,
+            "uptime_status": 0,
+            "date_time": "2024-06-23T11:35:00.373Z"
+        }
+    ],
+    "Mikrotik": [
+        {
+            "id": 5197,
+            "device_id": 8,
+            "uptime_status": 1,
+            "date_time": "2024-06-23T11:36:00.538Z"
+        },
+        {
+            "id": 5196,
+            "device_id": 8,
+            "uptime_status": 0,
+            "date_time": "2024-06-23T11:36:00.537Z"
+        },
+        {
+            "id": 5195,
+            "device_id": 8,
+            "uptime_status": 1,
+            "date_time": "2024-06-23T11:36:00.373Z"
+        }
+    ],
+    "Server 1": [
+        {
+            "id": 5200,
+            "device_id": 9,
+            "uptime_status": 0,
+            "date_time": "2024-06-23T11:37:00.538Z"
+        },
+        {
+            "id": 5199,
+            "device_id": 9,
+            "uptime_status": 0,
+            "date_time": "2024-06-23T11:37:00.537Z"
+        },
+        {
+            "id": 5198,
+            "device_id": 9,
+            "uptime_status": 0,
+            "date_time": "2024-06-23T11:37:00.373Z"
+        }
+    ]
+}
